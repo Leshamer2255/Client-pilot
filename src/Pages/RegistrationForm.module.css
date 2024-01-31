@@ -1,12 +1,9 @@
 .registrationForm {
     max-width: 450px;
     margin: 0 auto;
-    border: 1px solid black;
+    
 }
 
-.registrationForm h2{
-    border: 1px solid black;
-}
 
 label {
     display: block;
